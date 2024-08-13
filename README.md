@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shafin26103@gmail.com**
 
-- ⚡ Fun fact **currently trading sleep for lines of code**
+- ⚡ Fun fact **: Currently trading sleep for lines of code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
