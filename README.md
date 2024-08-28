@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Sofware developement**
 
-- 💬 Ask me about **Natural Language Processing**
+- 💬 Ask me about **Natural Language Processing and Programming**
 
 - 📫 How to reach me **shafin26103@gmail.com**
 
